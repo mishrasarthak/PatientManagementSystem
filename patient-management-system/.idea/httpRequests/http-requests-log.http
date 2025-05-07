@@ -1,0 +1,27 @@
+GET http://127.0.0.1:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-08T011435.200.json
+
+###
+
+GET http://127.0.0.1:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-08T011222.500.json
+
+###
+
+GET http://localhost:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-08T011144.500.json
+
+###
+
