@@ -1,13 +1,12 @@
 ### PUT request to update a patient
-PUT http://localhost:4000/patients/9eef47a0-59af-4ede-9e95-6528dfbdd4c0
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174002
 Content-Type: application/json
 
 {
-  "name": "Sarthak Mishra JI",
-  "email": "sarthak.m99@gmail.com",
-  "address": "1230 g ks block",
-  "dateOfBirth": "1999-03-30",
-  "registeredDate": "2025-05-03"
+  "name": "Alice Johnson Ji",
+  "email": "alice.johnsonn@example.com",
+  "address": "789 Oak St, Capital City",
+  "dateOfBirth": "1978-03-12"
 }
 
 ###

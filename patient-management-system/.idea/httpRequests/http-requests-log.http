@@ -1,3 +1,515 @@
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 165
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra",
+  "email": "sarthak.m9999@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-09T011729.200.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 131
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra",
+  "email": "sarthak.m9999@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30"
+}
+
+<> 2025-05-09T011725.400.json
+
+###
+
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174002
+Content-Type: application/json
+Content-Length: 145
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Alice Johnson Ji",
+  "email": "alice.johnsonn@example.com",
+  "address": "789 Oak St, Capital City",
+  "dateOfBirth": "1978-03-12"
+}
+
+<> 2025-05-09T011639.200.json
+
+###
+
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174002
+Content-Type: application/json
+Content-Length: 144
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Alice Johnson Ji",
+  "email": "alice.johnson@example.com",
+  "address": "789 Oak St, Capital City",
+  "dateOfBirth": "1978-03-12"
+}
+
+<> 2025-05-09T011526.400.json
+
+###
+
+GET http://localhost:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-09T011445.200.json
+
+###
+
+PUT http://localhost:4000/patients/9eef47a0-59af-4ede-9e95-6528dfbdd4c0
+Content-Type: application/json
+Content-Length: 132
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra JI",
+  "email": "sarthak.m99@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30"
+}
+
+<> 2025-05-09T011440.400.json
+
+###
+
+PUT http://localhost:4000/patients/9eef47a0-59af-4ede-9e95-6528dfbdd4c0
+Content-Type: application/json
+Content-Length: 132
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra JI",
+  "email": "sarthak.m99@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30"
+}
+
+<> 2025-05-09T011430.400.json
+
+###
+
+PUT http://localhost:4000/patients/9eef47a0-59af-4ede-9e95-6528dfbdd4c0
+Content-Type: application/json
+Content-Length: 166
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra JI",
+  "email": "sarthak.m99@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-09T010858.400.json
+
+###
+
+PUT http://localhost:4000/patients/9eef47a0-59af-4ede-9e95-6528dfbdd4c0
+Content-Type: application/json
+Content-Length: 166
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra JI",
+  "email": "sarthak.m99@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-09T010601.400.json
+
+###
+
+PUT http://localhost:4000/patients/9eef47a0-59af-4ede-9e95-6528dfbdd5c00
+Content-Type: application/json
+Content-Length: 166
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra JI",
+  "email": "sarthak.m99@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-09T010540.400.json
+
+###
+
+GET http://localhost:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-09T010523.200.json
+
+###
+
+PUT http://localhost:4000/patients/9eef47a0-59af-4ede-9e95-6528dfbdd5c0
+Content-Type: application/json
+Content-Length: 166
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra JI",
+  "email": "sarthak.m99@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-09T010518.200.json
+
+###
+
+PUT http://localhost:4000/patients/9eef47a0-59af-4ede-9e95-6528dfbdd5c0
+Content-Type: application/json
+Content-Length: 135
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra JI",
+  "email": "sarthak.m99999@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30"
+}
+
+<> 2025-05-09T010418.400.json
+
+###
+
+PUT http://localhost:4000/patients/9eef47a0-59af-4ede-9e95-6528dfbdd5c0
+Content-Type: application/json
+Content-Length: 168
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra JI",
+  "email": "sarthak.m9999@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-09T010317.400.json
+
+###
+
+GET http://localhost:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-09T010308.200.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 165
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra",
+  "email": "sarthak.m9999@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-09T010237.200.json
+
+###
+
+GET http://localhost:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-09T010201.200.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 165
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra",
+  "email": "sarthak.m9999@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-09T004753.400.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 165
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra",
+  "email": "sarthak.m9999@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-09T004748.200.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 165
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra",
+  "email": "sarthak.m9999@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-09T004639.400.json
+
+###
+
+GET http://localhost:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-09T004633.200.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 165
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra",
+  "email": "sarthak.m9999@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-09T004629.200.json
+
+###
+
+GET http://localhost:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-09T004617.200.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 165
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra",
+  "email": "sarthak.m9999@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-09T003636.200.json
+
+###
+
+GET http://localhost:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-09T003616.200.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 142
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra",
+  "email": "",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-09T002851.400.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 142
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra",
+  "email": "",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-08T013637.400.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 163
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra",
+  "email": "sarthak.m99@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-08T013559.500.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 163
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra",
+  "email": "sarthak.m99@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-08T013546.200.json
+
+###
+
+GET http://localhost:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-08T013354.200.json
+
+###
+
+GET http://localhost:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-08T013321.200.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 163
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sarthak Mishra",
+  "email": "sarthak.m99@gmail.com",
+  "address": "1230 g ks block",
+  "dateOfBirth": "1999-03-30",
+  "registeredDate": "2025-05-03"
+}
+
+<> 2025-05-08T013305.200.json
+
+###
+
 GET http://127.0.0.1:4000/patients
 User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1
 Accept-Encoding: br, deflate, gzip, x-gzip
